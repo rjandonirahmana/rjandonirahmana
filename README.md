@@ -6,10 +6,9 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
-- 🔭 1.crowdfunding 
-- 🔭 2.online shop
+- 🔭 1.crowdfunding with unit test (i just created this month october 2021)
+- 🔭 2.online shop with unit test (revamp)
 - 🔭 3.online chat(still on local and im gonna release on private) 
-- 🔭 -which i just started this month (october 2021)
 
 WARNING : !!!!! PLEASE DONT JUST COPY MY CODE WITHOUT MY CONSENT.
 
