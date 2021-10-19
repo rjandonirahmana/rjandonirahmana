@@ -6,13 +6,12 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on 
--------1.crowdfunding 
--------2.online shop
--------3.online chat(still on local and im gonna release on private) 
--------which i just started this month (october 2021)
+- 🔭 1.crowdfunding 
+- 🔭 2.online shop
+- 🔭 3.online chat(still on local and im gonna release on private) 
+- 🔭 -which i just started this month (october 2021)
 
-WARNING : !!!!! IF I HAPPEN TO READ MY CODE ON SOMEONE's REPOSITORY WITHOUT MY CONSENT I WOULD GIVE SPECIAL TREAT BY POSTING ON LINKEDIN ABOUT THAT BAD ATTITUDE
-
+WARNING : !!!!! PLEASE DONT JUST COPY MY CODE WITHOUT MY CONSENT.
 
 - 🌱 I’m currently learning docker, AWS, kubernetes
 - 👯 I’m looking to collaborate on open source project 
