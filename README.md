@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**rjandonirahmana/rjandonirahmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**rjandonirahmana/rjandonirahmana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile  -->
 
 Here are some ideas to get you started:
 
@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: doni
 - ⚡ Fun fact: im going to become CEO in future and once im wealth enough im gonna make this world greener
 --(PLEASE HELP OUR WORLD BY SIMPLY PLANT TREE GUYS)
--->
+
