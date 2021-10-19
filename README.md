@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 -------3.online chat(still on local and im gonna release on private) 
 -------which i just started this month (october 2021)
 
+WARNING : !!!!! IF I HAPPEN TO READ MY CODE ON SOMEONE's REPOSITORY WITHOUT MY CONSENT I WOULD GIVE SPECIAL TREAT BY POSTING ON LINKEDIN ABOUT THAT BAD ATTITUDE
+
+
 - 🌱 I’m currently learning docker, AWS, kubernetes
 - 👯 I’m looking to collaborate on open source project 
 - 🤔 I’m looking for help with my project (i would like to get help with redis/websocket for my instant chat app)
