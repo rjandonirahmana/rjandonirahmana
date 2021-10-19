@@ -14,7 +14,7 @@ WARNING : !!!!! PLEASE DONT JUST COPY MY CODE WITHOUT MY CONSENT.
 
 - 🌱 I’m currently learning docker, AWS, kubernetes
 - 👯 I’m looking to collaborate on open source project 
-- 🤔 I’m looking for help with my project (i would like to get help with redis/websocket for my instant chat app)
+- 🤔 I’m looking for help with my project (i would like to get help with redis and websocket for my instant chat app)
 - 💬 Ask me about Go SQL postgres
 - 📫 How to reach me: rjandonirahmana@gmail.com
 - 😄 Pronouns: doni
