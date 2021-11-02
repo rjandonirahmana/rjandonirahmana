@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 2.online shop with unit test (revamp)
 - 🔭 3.online chat(still on local and im gonna release on private) 
 
-WARNING : !!!!! PLEASE DONT JUST COPY MY CODE WITHOUT MY CONSENT.
 
 - 🌱 I’m currently learning docker, AWS, kubernetes
 - 👯 I’m looking to collaborate on open source project 
