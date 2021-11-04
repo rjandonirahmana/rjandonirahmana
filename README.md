@@ -11,12 +11,10 @@ Here are some ideas to get you started:
 - 🔭 3.online chat(still on local and im gonna release on private) 
 
 
-- 🌱 I’m currently learning docker, AWS, kubernetes
-- 👯 I’m looking to collaborate on open source project 
-- 🤔 I’m looking for help with my project (i would like to get help with redis and websocket for my instant chat app)
+- 🌱 I’m currently learning docker, AWS, kubernetes, typescript, redis, elasticsearch
 - 💬 Ask me about Go SQL postgres
 - 📫 How to reach me: rjandonirahmana@gmail.com
-- 😄 Pronouns: doni
+- 
 - ⚡ Fun fact: im going to become CEO in future and once im wealth enough im gonna make this world greener
 --(PLEASE HELP OUR WORLD BY SIMPLY PLANT TREE GUYS)
 
