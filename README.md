@@ -8,10 +8,10 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on 
 - 🔭 1.crowdfunding with unit test (i just created this month october 2021)
 - 🔭 2.online shop with unit test (revamp)
-- 🔭 3.online chat(still on local and im gonna release on private) 
 
 
-- 🌱 I’m currently learning docker, AWS, kubernetes, typescript, redis, elasticsearch
+
+- 🌱 I’m currently learning kubernetes, python, redis, elasticsearch
 - 💬 Ask me about Go SQL postgres
 - 📫 How to reach me: rjandonirahmana@gmail.com
 - 
